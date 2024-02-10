@@ -1,0 +1,1 @@
+This used to be my old website, it was done using Notion templates. I'm currently developing a new one using barebones Hugo (for fun!), you can check the repo [here](https://github.com/gabravacci/gabespace), or the website itself [here](https://gabravacci.github.io/gabespace/). I'm keeping this one alive for a bit in case I need to use it for reference later.
